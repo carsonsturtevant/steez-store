@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   showSplash = true;
 
-  title = 'steeze-store';
+  title = 'steez-store';
 
   onEnterClicked() {
     this.showSplash = false;
