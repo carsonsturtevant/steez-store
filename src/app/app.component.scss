@@ -1,0 +1,19 @@
+.app-container {
+    margin: 0 auto;
+    max-width: 1500px !important;
+    min-height: calc(100vh - 90px);
+}
+
+.enter-screen {
+    background-color: #ffe561;
+    height: 100vh;
+}
+
+.center-screen {
+    width: 100%;
+    max-width: 250px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
